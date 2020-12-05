@@ -1,5 +1,4 @@
 ## 이수영 Suyeong Lee 👋
-<hr/>
 
 #### [👩‍💻 **Notion 포트폴리오**](https://www.notion.so/Suyeong-Lee-1caf529bf8a5414f96e6c9e2877ab9e7, "Notion Portfolio")
 
