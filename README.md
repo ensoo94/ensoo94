@@ -1,21 +1,20 @@
-### 이수영 Suyeong Lee 👋
+## 이수영 Suyeong Lee 👋
 <hr/>
-[👩‍💻 Notion 포트폴리오](https://www.notion.so/Suyeong-Lee-1caf529bf8a5414f96e6c9e2877ab9e7, "Notion Portfolio")
 
+#### [👩‍💻 **Notion 포트폴리오**](https://www.notion.so/Suyeong-Lee-1caf529bf8a5414f96e6c9e2877ab9e7, "Notion Portfolio")
+
+##### Full Stack Developer & Data Engineer
+```SQL
+* javascript  🟩🟩🟩⬛⬛
+* python      🟩🟩🟩⬛⬛
+* BigQuery    🟩🟩🟩⬛⬛
+* SQL         🟩🟩🟩⬛⬛
+```
+
+###### ✨ email <ensoo94@gmail.com> 
+###### ✨ github <https://github.com/ensoo94/> 
+###### ✨ tistory <https://tmp0ff.tistory.com> 
+<
+##### solved.ac <br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ensoo94)](https://solved.ac/ensoo94)
-
-<!--
-**ensoo94/ensoo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
