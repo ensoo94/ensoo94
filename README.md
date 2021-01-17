@@ -12,7 +12,7 @@
 
 **✨ email** <ensoo94@gmail.com> <br/>
 **✨ github** <https://github.com/ensoo94/> <br/>
-**✨ tistory** <https://tmp0ff.tistory.com> <br/>
+**✨ velog** <https://velog.io/@ensoo94> <br/>
 
 #### solved.ac <br/>
 [![Solved.ac
