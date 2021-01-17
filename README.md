@@ -4,10 +4,10 @@
 
 #### Full Stack Developer & Data Engineer
 ```SQL
-* React.js    🟩🟩🟩⬛⬛
-* Python      🟩🟩⬛⬛⬛
+* React.js    🟩🟩⬛⬛⬛
+* Python      🟩🟩🟩⬛⬛
 * BigQuery    🟩🟩🟩⬛⬛
-* SQL         🟩🟩⬛⬛⬛
+* SQL         🟩🟩🟩🟩⬛
 ```
 
 **✨ email** <ensoo94@gmail.com> <br/>
